@@ -5,8 +5,7 @@ This document outlines all the key features and functionalities the backend of t
 
 ## 📐 Diagram
 
-<img width="582" alt="image" src="https://github.com/user-attachments/assets/4b09f245-9a10-4f32-83b0-9a65040d799f" />
-![image](https://github.com/user-attachments/assets/a1bb17bb-54cf-4614-bb7e-c45a208346d4)
+<img width="594" alt="image" src="https://github.com/user-attachments/assets/8fca86fd-86e2-4712-8e01-8de9c7d8dcc5" />
 
 
 ## 🔑 Core Functionalities
